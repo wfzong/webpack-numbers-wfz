@@ -1,0 +1,26 @@
+{
+  "name": "webpack-numbers-wfz",
+  "version": "1.0.5",
+  "description": "这是一个测试包",
+  "main": "dist/webpack-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "webpack",
+    "vue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "webpack": "^4.10.1",
+    "webpack-cli": "^2.1.4"
+  }
+}
